@@ -12,7 +12,7 @@ y evitar evaluaciones duplicadas.
 El archivo está guardado en formato csv usando tabulaciones como separadores de 
 columna y codificación UTF-8.
 
-_Última actualización del listado: abril 25, 2024._
+_Última actualización del listado: noviembre 13, 2024._
 
 ## Contacto
 
